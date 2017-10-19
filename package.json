@@ -1,6 +1,9 @@
 {
   "name": "demo-1019",
   "version": "0.0.1",
+  "engines": {
+    "node": "^6.11.3"
+  },
   "private": true,
   "description": "New Swagger API Project",
   "keywords": [],
